@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ectangle.com</title>
+    <link href="https://www.ectangle.com/feed.xml" rel="self" />
+    <link href="https://www.ectangle.com" />
+    <updated>2022-09-29T15:30:09+01:00</updated>
+    <author>
+        <name>Natalia Popa</name>
+    </author>
+    <id>https://www.ectangle.com</id>
+
+    <entry>
+        <title>Contact me</title>
+        <author>
+            <name>Natalia Popa</name>
+        </author>
+        <link href="https://www.ectangle.com/test-post1/"/>
+        <id>https://www.ectangle.com/test-post1/</id>
+
+        <updated>2021-05-07T12:58:54+01:00</updated>
+            <summary>
+                <![CDATA[
+                    I can be reached through email: bbbbb Viber: Whatsap:
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Math &amp; Statistics Fun ENG</title>
+        <author>
+            <name>Natalia Popa</name>
+        </author>
+        <link href="https://www.ectangle.com/math-fun-eng/"/>
+        <id>https://www.ectangle.com/math-fun-eng/</id>
+
+        <updated>2021-05-07T09:21:06+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Statistics jokes: Math jokes: A way to remember the first seven digits of pi The Math Dance Math Symbols of&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Big Data</title>
+        <author>
+            <name>Natalia Popa</name>
+        </author>
+        <link href="https://www.ectangle.com/math-for-kids/"/>
+        <id>https://www.ectangle.com/math-for-kids/</id>
+
+        <updated>2021-05-04T13:38:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                    The 5 Vs Big Data is commonly characterised by 5 Vs: # Find the cleanliness category in airlines not in categories cat_clean = set(airlines['cleanliness']).difference(categories['cleanliness']) # Find rows with that category cat_clean_rows = airlines['cleanliness'].isin(cat_clean) # Print rows with inconsistent category print(airlines[cat_clean_rows]) dgsdfgsdfh
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Math &amp; Statistics Fun RO</title>
+        <author>
+            <name>Natalia Popa</name>
+        </author>
+        <link href="https://www.ectangle.com/bancuri-despre-matematica/"/>
+        <id>https://www.ectangle.com/bancuri-despre-matematica/</id>
+
+        <updated>2021-05-04T11:49:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Bula vine de la scoala: – Tata, am luat 4 la matematica! Taica-su il bate mar. A doua zi: –&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Tables</title>
+        <author>
+            <name>Natalia Popa</name>
+        </author>
+        <link href="https://www.ectangle.com/tables/"/>
+        <id>https://www.ectangle.com/tables/</id>
+
+        <updated>2020-11-02T11:08:26+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>ghfgfjfg</title>
+        <author>
+            <name>Natalia Popa</name>
+        </author>
+        <link href="https://www.ectangle.com/th/"/>
+        <id>https://www.ectangle.com/th/</id>
+
+        <updated>2020-10-10T10:10:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Python Libraries for Data Science and Machine Learning: I few weeks ago I have started a Data Science course using&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+</feed>

@@ -1,0 +1,91 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ectangle.com",
+    "description": "",
+    "home_page_url": "https://www.ectangle.com",
+    "feed_url": "https://www.ectangle.com/feed.json",
+    "user_comment": "",
+    "icon": "https://www.ectangle.com/media/website/logo1.jpg",
+    "author": {
+        "name": "Natalia Popa"
+    },
+    "items": [
+        {
+            "id": "https://www.ectangle.com/test-post1/",
+            "url": "https://www.ectangle.com/test-post1/",
+            "title": "Contact me",
+            "summary": "I can be reached through email: bbbbb Viber: Whatsap:",
+            "author": {
+                "name": "Natalia Popa"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-07T12:58:54+01:00",
+            "date_modified": "2022-09-29T15:22:57+01:00"
+        },
+        {
+            "id": "https://www.ectangle.com/math-fun-eng/",
+            "url": "https://www.ectangle.com/math-fun-eng/",
+            "title": "Math &amp; Statistics Fun ENG",
+            "summary": "Statistics jokes: Math jokes: A way to remember the first seven digits of pi The Math Dance Math Symbols of&hellip;",
+            "author": {
+                "name": "Natalia Popa"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-07T09:21:06+01:00",
+            "date_modified": "2022-09-29T15:21:59+01:00"
+        },
+        {
+            "id": "https://www.ectangle.com/math-for-kids/",
+            "url": "https://www.ectangle.com/math-for-kids/",
+            "title": "Big Data",
+            "summary": "The 5 Vs Big Data is commonly characterised by 5 Vs: # Find the cleanliness category in airlines not in categories cat_clean = set(airlines['cleanliness']).difference(categories['cleanliness']) # Find rows with that category cat_clean_rows = airlines['cleanliness'].isin(cat_clean) # Print rows with inconsistent category print(airlines[cat_clean_rows]) dgsdfgsdfh",
+            "author": {
+                "name": "Natalia Popa"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-04T13:38:48+01:00",
+            "date_modified": "2022-09-29T15:29:29+01:00"
+        },
+        {
+            "id": "https://www.ectangle.com/bancuri-despre-matematica/",
+            "url": "https://www.ectangle.com/bancuri-despre-matematica/",
+            "title": "Math &amp; Statistics Fun RO",
+            "summary": "Bula vine de la scoala: – Tata, am luat 4 la matematica! Taica-su il bate mar. A doua zi: –&hellip;",
+            "author": {
+                "name": "Natalia Popa"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-04T11:49:42+01:00",
+            "date_modified": "2022-09-03T09:50:50+01:00"
+        },
+        {
+            "id": "https://www.ectangle.com/tables/",
+            "url": "https://www.ectangle.com/tables/",
+            "title": "Tables",
+            "author": {
+                "name": "Natalia Popa"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-02T11:08:26+00:00",
+            "date_modified": "2022-09-29T15:30:09+01:00"
+        },
+        {
+            "id": "https://www.ectangle.com/th/",
+            "url": "https://www.ectangle.com/th/",
+            "title": "ghfgfjfg",
+            "summary": "Python Libraries for Data Science and Machine Learning: I few weeks ago I have started a Data Science course using&hellip;",
+            "author": {
+                "name": "Natalia Popa"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-10T10:10:00+01:00",
+            "date_modified": "2022-09-03T15:57:02+01:00"
+        }
+    ]
+}
