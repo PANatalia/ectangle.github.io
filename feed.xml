@@ -3,85 +3,22 @@
     <title>ectangle.com</title>
     <link href="https://www.ectangle.com/feed.xml" rel="self" />
     <link href="https://www.ectangle.com" />
-    <updated>2024-07-02T09:16:42+01:00</updated>
+    <updated>2024-07-02T20:22:28+01:00</updated>
     <author>
         <name>Natalia Popa</name>
     </author>
     <id>https://www.ectangle.com</id>
 
     <entry>
-        <title>Contact me</title>
+        <title>Research Analysis 2</title>
         <author>
             <name>Natalia Popa</name>
         </author>
-        <link href="https://www.ectangle.com/test-post1/"/>
-        <id>https://www.ectangle.com/test-post1/</id>
+        <link href="https://www.ectangle.com/supporting-documents-2/"/>
+        <id>https://www.ectangle.com/supporting-documents-2/</id>
+        <media:content url="https://www.ectangle.com/media/posts/21/istockphoto-1267593752-612x612.jpg" medium="image" />
 
-        <updated>2021-05-07T12:58:54+01:00</updated>
-            <summary>
-                <![CDATA[
-                    I can be reached through email: bbbbbb Viber: Whatsap:
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Math &amp; Statistics Fun ENG</title>
-        <author>
-            <name>Natalia Popa</name>
-        </author>
-        <link href="https://www.ectangle.com/math-fun-eng/"/>
-        <id>https://www.ectangle.com/math-fun-eng/</id>
-
-        <updated>2021-05-07T09:21:06+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Statistics jokes: Math jokes: A way to remember the first seven digits of pi The Math Dance Math Symbols of&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Big Data</title>
-        <author>
-            <name>Natalia Popa</name>
-        </author>
-        <link href="https://www.ectangle.com/math-for-kids/"/>
-        <id>https://www.ectangle.com/math-for-kids/</id>
-
-        <updated>2021-05-04T13:38:48+01:00</updated>
-            <summary>
-                <![CDATA[
-                    The 5 Vs Big Data is commonly characterised by 5 Vs: # Find the cleanliness category in airlines not in categories cat_clean = set(airlines['cleanliness']).difference(categories['cleanliness']) # Find rows with that category cat_clean_rows = airlines['cleanliness'].isin(cat_clean) # Print rows with inconsistent category print(airlines[cat_clean_rows]) dgsdfgsdfh
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Math &amp; Statistics Fun RO</title>
-        <author>
-            <name>Natalia Popa</name>
-        </author>
-        <link href="https://www.ectangle.com/bancuri-despre-matematica/"/>
-        <id>https://www.ectangle.com/bancuri-despre-matematica/</id>
-
-        <updated>2021-05-04T11:49:42+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Bula vine de la scoala: – Tata, am luat 4 la matematica! Taica-su il bate mar. A doua zi: –&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Tables</title>
-        <author>
-            <name>Natalia Popa</name>
-        </author>
-        <link href="https://www.ectangle.com/tables/"/>
-        <id>https://www.ectangle.com/tables/</id>
-
-        <updated>2020-11-02T11:08:26+00:00</updated>
+        <updated>2024-07-02T12:23:24+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -92,11 +29,85 @@
         </author>
         <link href="https://www.ectangle.com/th/"/>
         <id>https://www.ectangle.com/th/</id>
+        <media:content url="https://www.ectangle.com/media/posts/8/istockphoto-1356616518-612x612.jpg" medium="image" />
 
-        <updated>2020-10-10T10:10:00+01:00</updated>
+        <updated>2024-07-02T10:07:38+01:00</updated>
             <summary>
                 <![CDATA[
-                    Python Libraries for Data Science and Machine Learning: I few weeks ago I have started a Data Science course using&hellip;
+                        <img src="https://www.ectangle.com/media/posts/8/istockphoto-1356616518-612x612.jpg" alt="" />
+                    Hello, and thank you for your interest in my services! Let me tell you a bit about how I work.
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Fun Math - RO</title>
+        <author>
+            <name>Natalia Popa</name>
+        </author>
+        <link href="https://www.ectangle.com/bancuri-despre-matematica/"/>
+        <id>https://www.ectangle.com/bancuri-despre-matematica/</id>
+        <media:content url="https://www.ectangle.com/media/posts/15/istockphoto-654293536-612x612-2.jpg" medium="image" />
+
+        <updated>2024-07-02T10:04:25+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.ectangle.com/media/posts/15/istockphoto-654293536-612x612-2.jpg" alt="" />
+                    Bula vine de la scoala: – Tata, am luat 4 la matematica! Taica-su il bate mar. A doua zi: –&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>Natalia Popa</name>
+        </author>
+        <link href="https://www.ectangle.com/test-post1/"/>
+        <id>https://www.ectangle.com/test-post1/</id>
+        <media:content url="https://www.ectangle.com/media/posts/18/Contact-me.jpg" medium="image" />
+
+        <updated>2021-05-07T12:58:54+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.ectangle.com/media/posts/18/Contact-me.jpg" alt="" />
+                    I can be reached through
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Fun Math - ENG</title>
+        <author>
+            <name>Natalia Popa</name>
+        </author>
+        <link href="https://www.ectangle.com/math-fun-eng/"/>
+        <id>https://www.ectangle.com/math-fun-eng/</id>
+        <media:content url="https://www.ectangle.com/media/posts/17/Fun-Math-1.jpg" medium="image" />
+
+        <updated>2021-05-07T09:21:06+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.ectangle.com/media/posts/17/Fun-Math-1.jpg" alt="" />
+                    Statistics jokes: ----------------------------------------------------------- Math jokes: ----------------------------------------------------------- A way to remember the first seven digits of pi ----------------------------------------------------------- The Math Dance&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Topics</title>
+        <author>
+            <name>Natalia Popa</name>
+        </author>
+        <link href="https://www.ectangle.com/math-for-kids/"/>
+        <id>https://www.ectangle.com/math-for-kids/</id>
+        <media:content url="https://www.ectangle.com/media/posts/16/Topics2.jpg" medium="image" />
+
+        <updated>2021-05-04T13:38:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.ectangle.com/media/posts/16/Topics2.jpg" alt="" />
+                    The 5 Vs Big Data is commonly characterised by 5 Vs: # Find the cleanliness category in airlines not in categories cat_clean = set(airlines['cleanliness']).difference(categories['cleanliness']) # Find rows with that category cat_clean_rows = airlines['cleanliness'].isin(cat_clean) # Print rows with inconsistent category print(airlines[cat_clean_rows]) dgsdfgsdfh
                 ]]>
             </summary>
         <content></content>
