@@ -24,20 +24,6 @@
             "date_modified": "2024-07-02T17:05:43+01:00"
         },
         {
-            "id": "https://www.ectangle.com/th/",
-            "url": "https://www.ectangle.com/th/",
-            "title": "Services",
-            "summary": "Hello, and thank you for your interest in my services! Let me tell you a bit about how I work.",
-            "image": "https://www.ectangle.com/media/posts/8/istockphoto-1356616518-612x612.jpg",
-            "author": {
-                "name": "Natalia Popa"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-07-02T10:07:38+01:00",
-            "date_modified": "2024-07-02T17:21:02+01:00"
-        },
-        {
             "id": "https://www.ectangle.com/bancuri-despre-matematica/",
             "url": "https://www.ectangle.com/bancuri-despre-matematica/",
             "title": "Fun Math - RO",
@@ -83,7 +69,7 @@
             "id": "https://www.ectangle.com/math-for-kids/",
             "url": "https://www.ectangle.com/math-for-kids/",
             "title": "Topics",
-            "summary": "The 5 Vs Big Data is commonly characterised by 5 Vs: # Find the cleanliness category in airlines not in categories cat_clean = set(airlines['cleanliness']).difference(categories['cleanliness']) # Find rows with that category cat_clean_rows = airlines['cleanliness'].isin(cat_clean) # Print rows with inconsistent category print(airlines[cat_clean_rows]) dgsdfgsdfh",
+            "summary": "Measures of Central Tendency",
             "image": "https://www.ectangle.com/media/posts/16/Topics2.jpg",
             "author": {
                 "name": "Natalia Popa"
@@ -91,7 +77,20 @@
             "tags": [
             ],
             "date_published": "2021-05-04T13:38:48+01:00",
-            "date_modified": "2024-07-02T16:46:59+01:00"
+            "date_modified": "2024-07-02T21:24:14+01:00"
+        },
+        {
+            "id": "https://www.ectangle.com/tables/",
+            "url": "https://www.ectangle.com/tables/",
+            "title": "Tables",
+            "image": "https://www.ectangle.com/media/posts/14/Table-Copy-2.jpg",
+            "author": {
+                "name": "Natalia Popa"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-02T11:08:26+00:00",
+            "date_modified": "2024-07-02T21:03:00+01:00"
         }
     ]
 }

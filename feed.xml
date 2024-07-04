@@ -3,7 +3,7 @@
     <title>ectangle.com</title>
     <link href="https://www.ectangle.com/feed.xml" rel="self" />
     <link href="https://www.ectangle.com" />
-    <updated>2024-07-02T21:00:37+01:00</updated>
+    <updated>2024-07-02T21:24:14+01:00</updated>
     <author>
         <name>Natalia Popa</name>
     </author>
@@ -20,24 +20,6 @@
 
         <updated>2024-07-02T12:23:24+01:00</updated>
             <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Services</title>
-        <author>
-            <name>Natalia Popa</name>
-        </author>
-        <link href="https://www.ectangle.com/th/"/>
-        <id>https://www.ectangle.com/th/</id>
-        <media:content url="https://www.ectangle.com/media/posts/8/istockphoto-1356616518-612x612.jpg" medium="image" />
-
-        <updated>2024-07-02T10:07:38+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.ectangle.com/media/posts/8/istockphoto-1356616518-612x612.jpg" alt="" />
-                    Hello, and thank you for your interest in my services! Let me tell you a bit about how I work.
-                ]]>
-            </summary>
         <content></content>
     </entry>
     <entry>
@@ -107,9 +89,22 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.ectangle.com/media/posts/16/Topics2.jpg" alt="" />
-                    The 5 Vs Big Data is commonly characterised by 5 Vs: # Find the cleanliness category in airlines not in categories cat_clean = set(airlines['cleanliness']).difference(categories['cleanliness']) # Find rows with that category cat_clean_rows = airlines['cleanliness'].isin(cat_clean) # Print rows with inconsistent category print(airlines[cat_clean_rows]) dgsdfgsdfh
+                    Measures of Central Tendency
                 ]]>
             </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Tables</title>
+        <author>
+            <name>Natalia Popa</name>
+        </author>
+        <link href="https://www.ectangle.com/tables/"/>
+        <id>https://www.ectangle.com/tables/</id>
+        <media:content url="https://www.ectangle.com/media/posts/14/Table-Copy-2.jpg" medium="image" />
+
+        <updated>2020-11-02T11:08:26+00:00</updated>
+            <summary></summary>
         <content></content>
     </entry>
 </feed>
