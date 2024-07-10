@@ -3,12 +3,28 @@
     <title>ectangle.com</title>
     <link href="https://www.ectangle.com/feed.xml" rel="self" />
     <link href="https://www.ectangle.com" />
-    <updated>2024-07-09T22:29:32+01:00</updated>
+    <updated>2024-07-10T20:26:14+01:00</updated>
     <author>
         <name>Natalia Popa</name>
     </author>
     <id>https://www.ectangle.com</id>
 
+    <entry>
+        <title>Python Staff</title>
+        <author>
+            <name>Natalia Popa</name>
+        </author>
+        <link href="https://www.ectangle.com/python-staff/"/>
+        <id>https://www.ectangle.com/python-staff/</id>
+
+        <updated>2024-07-10T09:22:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Here is …
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Research Analysis 2</title>
         <author>
@@ -92,19 +108,6 @@
                     Measures of Central Tendency Values which locate the centre of a frequency distribution are known as measure of centre tendency.
                 ]]>
             </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Tables</title>
-        <author>
-            <name>Natalia Popa</name>
-        </author>
-        <link href="https://www.ectangle.com/tables/"/>
-        <id>https://www.ectangle.com/tables/</id>
-        <media:content url="https://www.ectangle.com/media/posts/14/Table-Copy-2.jpg" medium="image" />
-
-        <updated>2020-11-02T11:08:26+00:00</updated>
-            <summary></summary>
         <content></content>
     </entry>
 </feed>
