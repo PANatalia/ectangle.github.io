@@ -3,30 +3,12 @@
     <title>ectangle.com</title>
     <link href="https://www.ectangle.com/feed.xml" rel="self" />
     <link href="https://www.ectangle.com" />
-    <updated>2024-07-10T20:57:52+01:00</updated>
+    <updated>2024-07-11T21:10:55+01:00</updated>
     <author>
         <name>Natalia Popa</name>
     </author>
     <id>https://www.ectangle.com</id>
 
-    <entry>
-        <title>Measures of Dispersion or Variation</title>
-        <author>
-            <name>Natalia Popa</name>
-        </author>
-        <link href="https://www.ectangle.com/math-for-kids-2/"/>
-        <id>https://www.ectangle.com/math-for-kids-2/</id>
-        <media:content url="https://www.ectangle.com/media/posts/23/Topics2.jpg" medium="image" />
-
-        <updated>2024-07-10T20:46:47+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.ectangle.com/media/posts/23/Topics2.jpg" alt="" />
-                    Measures of Dispersion or Variation Along with measures of central tendency it is important to know something of the variability&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
     <entry>
         <title>Python Staff</title>
         <author>
@@ -106,6 +88,24 @@
                 <![CDATA[
                         <img src="https://www.ectangle.com/media/posts/17/Fun-Math-1.jpg" alt="" />
                     Are you a Pythagoras? ----------------------------------------------------------- No comments on this one ----------------------------------------------------------- When you think irrationally or a funny application of&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Topics</title>
+        <author>
+            <name>Natalia Popa</name>
+        </author>
+        <link href="https://www.ectangle.com/math-for-kids/"/>
+        <id>https://www.ectangle.com/math-for-kids/</id>
+        <media:content url="https://www.ectangle.com/media/posts/16/Topics2.jpg" medium="image" />
+
+        <updated>2021-05-04T13:38:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.ectangle.com/media/posts/16/Topics2.jpg" alt="" />
+                    Measures of Central Tendency Values which locate the centre of a frequency distribution are known as measure of centre tendency.
                 ]]>
             </summary>
         <content></content>
