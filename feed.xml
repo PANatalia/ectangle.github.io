@@ -3,24 +3,27 @@
     <title>ectangle.com</title>
     <link href="https://www.ectangle.com/feed.xml" rel="self" />
     <link href="https://www.ectangle.com" />
-    <updated>2024-07-11T21:28:12+01:00</updated>
+    <updated>2024-07-11T21:47:24+01:00</updated>
     <author>
         <name>Natalia Popa</name>
     </author>
     <id>https://www.ectangle.com</id>
 
     <entry>
-        <title>Topics</title>
+        <title>Measures of Dispersion or Variation</title>
         <author>
             <name>Natalia Popa</name>
         </author>
-        <link href="https://www.ectangle.com/python-staff/"/>
-        <id>https://www.ectangle.com/python-staff/</id>
+        <link href="https://www.ectangle.com/math-for-kids-4/"/>
+        <id>https://www.ectangle.com/math-for-kids-4/</id>
+        <media:content url="https://www.ectangle.com/media/posts/25/Topics2.jpg" medium="image" />
+            <category term="Statistical Topic"/>
 
-        <updated>2024-07-10T09:22:41+01:00</updated>
+        <updated>2024-07-11T21:45:48+01:00</updated>
             <summary>
                 <![CDATA[
-                    Here is …
+                        <img src="https://www.ectangle.com/media/posts/25/Topics2.jpg" alt="" />
+                    Measures of Dispersion or Variation Along with measures of central tendency it is important to know something of the variability&hellip;
                 ]]>
             </summary>
         <content></content>
@@ -93,13 +96,14 @@
         <content></content>
     </entry>
     <entry>
-        <title>Topics</title>
+        <title>Measures of Central Tendency</title>
         <author>
             <name>Natalia Popa</name>
         </author>
         <link href="https://www.ectangle.com/math-for-kids/"/>
         <id>https://www.ectangle.com/math-for-kids/</id>
         <media:content url="https://www.ectangle.com/media/posts/16/Topics2.jpg" medium="image" />
+            <category term="Statistical Topic"/>
 
         <updated>2021-05-04T13:38:48+01:00</updated>
             <summary>

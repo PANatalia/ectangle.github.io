@@ -11,17 +11,19 @@
     },
     "items": [
         {
-            "id": "https://www.ectangle.com/python-staff/",
-            "url": "https://www.ectangle.com/python-staff/",
-            "title": "Topics",
-            "summary": "Here is …",
+            "id": "https://www.ectangle.com/math-for-kids-4/",
+            "url": "https://www.ectangle.com/math-for-kids-4/",
+            "title": "Measures of Dispersion or Variation",
+            "summary": "Measures of Dispersion or Variation Along with measures of central tendency it is important to know something of the variability&hellip;",
+            "image": "https://www.ectangle.com/media/posts/25/Topics2.jpg",
             "author": {
                 "name": "Natalia Popa"
             },
             "tags": [
+                   "Statistical Topic"
             ],
-            "date_published": "2024-07-10T09:22:41+01:00",
-            "date_modified": "2024-07-11T21:28:12+01:00"
+            "date_published": "2024-07-11T21:45:48+01:00",
+            "date_modified": "2024-07-11T21:47:04+01:00"
         },
         {
             "id": "https://www.ectangle.com/supporting-documents-2/",
@@ -81,16 +83,17 @@
         {
             "id": "https://www.ectangle.com/math-for-kids/",
             "url": "https://www.ectangle.com/math-for-kids/",
-            "title": "Topics",
+            "title": "Measures of Central Tendency",
             "summary": "Measures of Central Tendency Values which locate the centre of a frequency distribution are known as measure of centre tendency.",
             "image": "https://www.ectangle.com/media/posts/16/Topics2.jpg",
             "author": {
                 "name": "Natalia Popa"
             },
             "tags": [
+                   "Statistical Topic"
             ],
             "date_published": "2021-05-04T13:38:48+01:00",
-            "date_modified": "2024-07-11T21:10:55+01:00"
+            "date_modified": "2024-07-11T21:47:24+01:00"
         }
     ]
 }
