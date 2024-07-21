@@ -3,12 +3,54 @@
     <title>ectangle.com</title>
     <link href="https://www.ectangle.com/feed.xml" rel="self" />
     <link href="https://www.ectangle.com" />
-    <updated>2024-07-14T09:28:22+01:00</updated>
+    <updated>2024-07-14T09:53:13+01:00</updated>
     <author>
         <name>Natalia Popa Antalovski</name>
     </author>
     <id>https://www.ectangle.com</id>
 
+    <entry>
+        <title>Math1</title>
+        <author>
+            <name>Natalia Popa Antalovski</name>
+        </author>
+        <link href="https://www.ectangle.com/supporting-documents-6/"/>
+        <id>https://www.ectangle.com/supporting-documents-6/</id>
+        <media:content url="https://www.ectangle.com/media/posts/29/istockphoto-1267593752-612x612.jpg" medium="image" />
+            <category term="Math"/>
+
+        <updated>2024-07-14T09:52:22+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Python1</title>
+        <author>
+            <name>Natalia Popa Antalovski</name>
+        </author>
+        <link href="https://www.ectangle.com/supporting-documents-5/"/>
+        <id>https://www.ectangle.com/supporting-documents-5/</id>
+        <media:content url="https://www.ectangle.com/media/posts/28/istockphoto-1267593752-612x612.jpg" medium="image" />
+            <category term="Python"/>
+
+        <updated>2024-07-14T09:50:20+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>SQL1</title>
+        <author>
+            <name>Natalia Popa Antalovski</name>
+        </author>
+        <link href="https://www.ectangle.com/supporting-documents-4/"/>
+        <id>https://www.ectangle.com/supporting-documents-4/</id>
+        <media:content url="https://www.ectangle.com/media/posts/27/istockphoto-1267593752-612x612.jpg" medium="image" />
+            <category term="SQL"/>
+
+        <updated>2024-07-14T09:48:51+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Percentiles &amp; Quartiles</title>
         <author>
@@ -55,63 +97,10 @@
         <link href="https://www.ectangle.com/supporting-documents-2/"/>
         <id>https://www.ectangle.com/supporting-documents-2/</id>
         <media:content url="https://www.ectangle.com/media/posts/21/istockphoto-1267593752-612x612.jpg" medium="image" />
+            <category term="Research"/>
 
         <updated>2024-07-02T12:23:24+01:00</updated>
             <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Math Fun - RO</title>
-        <author>
-            <name>Natalia Popa Antalovski</name>
-        </author>
-        <link href="https://www.ectangle.com/bancuri-despre-matematica/"/>
-        <id>https://www.ectangle.com/bancuri-despre-matematica/</id>
-        <media:content url="https://www.ectangle.com/media/posts/15/istockphoto-654293536-612x612-2.jpg" medium="image" />
-
-        <updated>2024-07-02T10:04:25+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.ectangle.com/media/posts/15/istockphoto-654293536-612x612-2.jpg" alt="" />
-                    Bula vine de la scoala: – Tata, am luat 4 la matematica! Taica-su il bate mar. A doua zi: –&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Contact</title>
-        <author>
-            <name>Natalia Popa Antalovski</name>
-        </author>
-        <link href="https://www.ectangle.com/test-post1/"/>
-        <id>https://www.ectangle.com/test-post1/</id>
-        <media:content url="https://www.ectangle.com/media/posts/18/Contact-me.jpg" medium="image" />
-
-        <updated>2021-05-07T12:58:54+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.ectangle.com/media/posts/18/Contact-me.jpg" alt="" />
-                    I can be reached through
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Math Fun - ENG</title>
-        <author>
-            <name>Natalia Popa Antalovski</name>
-        </author>
-        <link href="https://www.ectangle.com/math-fun-eng/"/>
-        <id>https://www.ectangle.com/math-fun-eng/</id>
-        <media:content url="https://www.ectangle.com/media/posts/17/Fun-Math-1.jpg" medium="image" />
-
-        <updated>2021-05-07T09:21:06+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.ectangle.com/media/posts/17/Fun-Math-1.jpg" alt="" />
-                    Are you a Pythagoras? ----------------------------------------------------------- No comments on this one ----------------------------------------------------------- When you think irrationally or a funny application of&hellip;
-                ]]>
-            </summary>
         <content></content>
     </entry>
 </feed>
