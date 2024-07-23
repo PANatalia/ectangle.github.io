@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.ectangle.com/math-for-kids-5/",
+            "url": "https://www.ectangle.com/math-for-kids-5/",
+            "title": "The shape of the distribution",
+            "summary": "The shape of the distribution The shape of the distribution may be judged by looking at the histogram or by&hellip;",
+            "image": "https://www.ectangle.com/media/posts/31/Topics2.jpg",
+            "author": {
+                "name": "Natalia Popa Antalovski"
+            },
+            "tags": [
+                   "Statistical Topic"
+            ],
+            "date_published": "2024-07-23T19:50:28+01:00",
+            "date_modified": "2024-07-23T20:33:39+01:00"
+        },
+        {
             "id": "https://www.ectangle.com/supporting-documents-6/",
             "url": "https://www.ectangle.com/supporting-documents-6/",
             "title": "Math1",
@@ -80,21 +95,7 @@
                    "Statistical Topic"
             ],
             "date_published": "2024-07-11T21:45:48+01:00",
-            "date_modified": "2024-07-14T09:28:22+01:00"
-        },
-        {
-            "id": "https://www.ectangle.com/supporting-documents-2/",
-            "url": "https://www.ectangle.com/supporting-documents-2/",
-            "title": "Research Analysis 2",
-            "image": "https://www.ectangle.com/media/posts/21/istockphoto-1267593752-612x612.jpg",
-            "author": {
-                "name": "Natalia Popa Antalovski"
-            },
-            "tags": [
-                   "Research"
-            ],
-            "date_published": "2024-07-02T12:23:24+01:00",
-            "date_modified": "2024-07-14T09:50:03+01:00"
+            "date_modified": "2024-07-21T12:36:13+01:00"
         }
     ]
 }

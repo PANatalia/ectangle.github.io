@@ -3,12 +3,31 @@
     <title>ectangle.com</title>
     <link href="https://www.ectangle.com/feed.xml" rel="self" />
     <link href="https://www.ectangle.com" />
-    <updated>2024-07-14T09:53:13+01:00</updated>
+    <updated>2024-07-23T20:33:39+01:00</updated>
     <author>
         <name>Natalia Popa Antalovski</name>
     </author>
     <id>https://www.ectangle.com</id>
 
+    <entry>
+        <title>The shape of the distribution</title>
+        <author>
+            <name>Natalia Popa Antalovski</name>
+        </author>
+        <link href="https://www.ectangle.com/math-for-kids-5/"/>
+        <id>https://www.ectangle.com/math-for-kids-5/</id>
+        <media:content url="https://www.ectangle.com/media/posts/31/Topics2.jpg" medium="image" />
+            <category term="Statistical Topic"/>
+
+        <updated>2024-07-23T19:50:28+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.ectangle.com/media/posts/31/Topics2.jpg" alt="" />
+                    The shape of the distribution The shape of the distribution may be judged by looking at the histogram or by&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Math1</title>
         <author>
@@ -87,20 +106,6 @@
                     Measures of Dispersion or Variation Along with measures of central tendency it is important to know something of the variability&hellip;
                 ]]>
             </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Research Analysis 2</title>
-        <author>
-            <name>Natalia Popa Antalovski</name>
-        </author>
-        <link href="https://www.ectangle.com/supporting-documents-2/"/>
-        <id>https://www.ectangle.com/supporting-documents-2/</id>
-        <media:content url="https://www.ectangle.com/media/posts/21/istockphoto-1267593752-612x612.jpg" medium="image" />
-            <category term="Research"/>
-
-        <updated>2024-07-02T12:23:24+01:00</updated>
-            <summary></summary>
         <content></content>
     </entry>
 </feed>
